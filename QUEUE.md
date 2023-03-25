@@ -14,3 +14,11 @@
 - [https://findthatmeme.com/blog/2023/01/08/image-stacks-and-ip...](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 - [https://machinelearning.apple.com/research/neural-engine-tra...](https://machinelearning.apple.com/research/neural-engine-transformers)
 - [https://machinelearning.apple.com/research/stable-diffusion-...](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
+- - [https://github.com/context-labs/autodoc/blob/master/src/cli/...](https://github.com/context-labs/autodoc/blob/master/src/cli/commands/query/createChatChain.ts)
+- [https://github.com/context-labs/autodoc/blob/master/.autodoc...](https://github.com/context-labs/autodoc/blob/master/.autodoc/docs/markdown/src/index.md)
+- [https://abstrusegoose.com/432](https://abstrusegoose.com/432)
+- [https://github.com/context-labs/autodoc/blob/83f03a3cee62d6e...](https://github.com/context-labs/autodoc/blob/83f03a3cee62d6e00a440c20890badfe0cf1aa96/src/cli/commands/index/prompts.ts#L3)
+- [https://www.reddit.com/r/ProgrammerHumor/comments/4ktp12/my_...](https://www.reddit.com/r/ProgrammerHumor/comments/4ktp12/my_colleague_ran_a_tool_to_document_our_code_base/)
+- [https://dumps.wikimedia.org/](https://dumps.wikimedia.org/)
+- [https://github.com/context-labs/autodoc/blob/master/src/cli/...](https://github.com/context-labs/autodoc/blob/master/src/cli/commands/index/prompts.ts)
+
