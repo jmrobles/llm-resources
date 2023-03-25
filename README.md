@@ -16,3 +16,6 @@ LLM and transformers resources
 - [RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
 - [Alpaca LoRA 4-bit](https://github.com/johnsmith0031/alpaca_lora_4bit)
 - [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
+
+## Frameworks
+- [Autodoc](https://github.com/context-labs/autodoc): Auto generate documentation from your repository.
